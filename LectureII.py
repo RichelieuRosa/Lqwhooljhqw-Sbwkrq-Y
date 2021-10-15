@@ -29,6 +29,7 @@ print(UniversityList[2])
 print(UniversityList[1])
 
 # list 2c
+UniversityList = ["Todai", "Tokodai", "Tokodai", "Hokudai"]
 print(UniversityList.index("Todai"))
 print(UniversityList.index("Tokodai"))
 print(UniversityList.index("Hokudai"))
