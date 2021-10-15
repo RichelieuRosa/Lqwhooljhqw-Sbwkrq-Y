@@ -5,8 +5,7 @@
 ### DO NOT SUBMIT DIRECTLY ###
 ### DO NOT SUBMIT DIRECTLY ###
 
-#Testing from Ling
-UniversityList = ["Todai", "Tokodai", "Hokudai"]
+
 
 
 
